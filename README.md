@@ -1,8 +1,10 @@
 # CITY-TREASURY-SALES-ANALYSIS
 
 ## 1. Introduction
+![IMG](INTRO_PIX.png)
+
 The City Treasury Sales dataset offers a thorough overview of properties that are subject to sale due to unpaid liens or taxes. This dataset is typically managed and maintained by the city's treasury or finance department. Its availability to the public serves a dual purpose: promoting transparency within the city's financial operations and creating opportunities for property investment.
-![](INTRO_PIX.png)
+
 
 ## 2. About Dataset
 * **Purpose:** It provides a comprehensive view of properties that are subject to sale.
@@ -42,7 +44,8 @@ The development of this analysis involved the following key steps:
 3.  **Dashboard Development:** Utilizing a business intelligence tool (e.g., Power BI) to create interactive visualizations.
 
 ## 7. Key Features and Insights
-![](CITY_TREASURY_DASHBOARD.png)
+![DASHBORAD](CITY_TREASURY_DASHBOARD.png)
+
 The dashboard provides a multi-faceted view of city treasury sales, featuring various interactive visualizations:
 
 * **Summary Cards:** Prominently display key aggregated financial metrics:
