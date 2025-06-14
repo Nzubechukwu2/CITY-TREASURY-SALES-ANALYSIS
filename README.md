@@ -102,3 +102,6 @@ Potential future enhancements for this dashboard include:
 This City Treasury Sales Analysis dashboard serves as a vital tool for promoting transparency and enabling data-driven decisions within municipal finance. The insights derived from visualizing delinquent taxes and liens can significantly aid city treasury departments in prioritizing collection efforts and optimizing revenue recovery strategies.
 
 By making this information accessible, the dashboard also empowers potential investors to identify valuable property opportunities, fostering economic activity. The suggested future enhancements, such as predictive analytics and geospatial mapping, would further elevate its utility, transforming it into a more proactive and spatially intelligent asset management system. This project demonstrates a strong foundation in data analysis and visualization for addressing real-world urban challenges.
+
+Thank you for your interest and time. Your valuable suggestions are welcome. Feel free to connect with me for further discussion. [here](https://www.linkedin.com/in/nzubechukwu-nwafor-pmb-acihrm-58ba80201)
+
