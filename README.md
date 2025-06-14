@@ -1,7 +1,7 @@
 # CITY-TREASURY-SALES-ANALYSIS
 
 ## 1. Introduction
-![IMG](INTRO_PIX.png)
+![IMG](INTRO_PIX.PNG)
 
 The City Treasury Sales dataset offers a thorough overview of properties that are subject to sale due to unpaid liens or taxes. This dataset is typically managed and maintained by the city's treasury or finance department. Its availability to the public serves a dual purpose: promoting transparency within the city's financial operations and creating opportunities for property investment.
 
@@ -42,9 +42,12 @@ The development of this analysis involved the following key steps:
 1.  **Data Collection & Cleaning:** Sourcing and preprocessing raw data to ensure accuracy and consistency across various property attributes and financial figures.
 2.  **Data Transformation:** Aggregating and structuring data to derive meaningful metrics, such as total tax due by neighborhood or monthly trends.
 3.  **Dashboard Development:** Utilizing a business intelligence tool (e.g., Power BI) to create interactive visualizations.
+4.  **Dynamic text** refers to content that is generated or updated in real-time based on user interactions, data changes, or other conditions. Unlike static text, which remains fixed and unchanged, dynamic text adjusts to reflect the current state of the system or user input. 
+In Power BI, dynamic text is often used to create reports and dashboards that adapt based on user interactions or data changes. Here’s how it typically works:
+5.  **DAX Measures**: Data Analysis Expressions (DAX) can be used to create measures that generate text dynamically based on the underlying data. For example, you could create a measure to display a message if sales are above or below a certain threshold.
 
 ## 7. Key Features and Insights
-![DASHBORAD](CITY_TREASURY_DASHBOARD.png)
+![DASHBORAD](CITY_TREASURY_DASHBOARD.PNG)
 
 The dashboard provides a multi-faceted view of city treasury sales, featuring various interactive visualizations:
 
